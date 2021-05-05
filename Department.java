@@ -25,5 +25,7 @@ public class Department {//Department must be declared in its own file
 	}
 	public void setDepartmentLocation(String departmentLocation) {
 		this.departmentLocation = departmentLocation;
+		public void setDepartmentLocation(String departmentLocation) {
+		this.departmentLocation = departmentLocation;
 	}
 }
